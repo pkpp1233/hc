@@ -1,0 +1,22 @@
+/*All form factors*/
+
+body {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+.heading, .subheading {
+	font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+}
+
+p.lead {
+	padding-top: 1.5%;
+	font-size: 24px;
+	line-height: 30px;
+}
+
+.center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+     text-align:center;
+}
